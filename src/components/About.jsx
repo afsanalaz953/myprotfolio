@@ -226,8 +226,8 @@ export default function About() {
                                 className="mt-6 flex justify-center"
                             >
                                 <motion.a
-                                    href="/resume.pdf"
-                                    className="group relative inline-flex items-center gap-2 overflow-hidden rounded-full bg-gradient-to-r from-blue-600 to-indigo-600 px-6 py-3 text-sm font-medium text-white shadow-lg shadow-blue-500/30 transition-all duration-300 hover:shadow-xl hover:shadow-blue-500/40 md:px-8 md:py-3.5 md:text-base"
+                                    href="https://drive.google.com/file/d/1XoHkBvF82Xi6cXcRQydSBqURAmQ--SjH/view?usp=sharing"
+                                    className="group relative inline-flex items-center gap-2 overflow-hidden rounded-full bg-linear-to-r from-blue-600 to-indigo-600 px-6 py-3 text-sm font-medium text-white shadow-lg shadow-blue-500/30 transition-all duration-300 hover:shadow-xl hover:shadow-blue-500/40 md:px-8 md:py-3.5 md:text-base"
                                     whileHover={{ scale: 1.03 }}
                                     whileTap={{ scale: 0.97 }}
                                     onMouseEnter={() => setIsHovered(true)}
